@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portofolio</string>
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_subtitle">Silakan login untuk mengakses portofolio Anda</string>
+    <string name="username_hint">Username / Email</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="err_empty_fields">Harap isi username dan password!</string>
+
+    <string name="welcome_user">Selamat Datang, %1$s!</string>
+    <string name="profile_header">Profil Saya</string>
+    <string name="user_name">Ahmad Fadhil</string>
+    <string name="user_nim">NIM: 2212345678</string>
+    <string name="user_email">ahmad.fadhil@student.pam.ac.id</string>
+    <string name="user_role">Pengembang Aplikasi Mobile</string>
+    <string name="about_me_title">Tentang Saya</string>
+    <string name="user_bio">Mahasiswa Teknik Informatika yang berfokus pada pengembangan aplikasi Android native menggunakan Kotlin.</string>
+    <string name="btn_logout">Logout</string>
+</resources>
